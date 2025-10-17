@@ -1,0 +1,6 @@
+﻿  Stack.cpp
+  main.cpp
+C:\Users\ADEEBA\source\repos\Stacks DS assignment  Q)2\Stacks DS assignment  Q)2\main.cpp(8,17): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\ADEEBA\source\repos\Stacks DS assignment  Q)2\Stacks DS assignment  Q)2\main.cpp(10,17): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  Generating Code...
+  Stacks DS assignment  Q)2.vcxproj -> C:\Users\ADEEBA\source\repos\Stacks DS assignment  Q)2\x64\Debug\Stacks DS assignment  Q)2.exe
